@@ -1,0 +1,8 @@
+pandas
+openpyxl
+ipywidgets
+notebook
+requests
+python-dotenv
+reportlab
+pytest
